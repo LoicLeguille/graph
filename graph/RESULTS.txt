@@ -1,0 +1,96 @@
+br17
+
+NO LOCAL IMPROVEMENT:
+nearest neighbor: 56 / 4
+nearest insertion: 39 / 1
+Fletcher: 97 / 1
+Fletcher & Clarke: 40 / 6
+
+ER IMPROVEMENT:
+nearest neighbor: 42 / 4
+nearest insertion: 39 / 1
+Fletcher: 41 / 3
+Fletcher & Clarke:  40 / 4
+
+2-OPT IMPROVEMENT
+nearest neighbor: 39 / 1
+nearest insertion: 39 / 1
+Fletcher: 39 / 1
+Fletcher & Clarke: 39 / 1
+
+ER IMPROVEMENT AFTER 2-OPT:
+nearest neighbor: 39 / 1
+nearest insertion: 39 / 1
+Fletcher: 39 / 1
+Fletcher & Clarke: 39 / 1
+
+2-OPT IMPROVEMENT AFTER ER:
+nearest neighbor: 39 / 1
+nearest insertion: 39 / 1
+Fletcher: 39 / 1
+Fletcher & Clarke: 39 / 1
+
+
+bays29
+
+NO LOCAL IMPORVEMENT:
+nearest neighbor: 2134 / 23
+nearest insertion: 2171 / 2
+Fletcher: 2480 / 1
+Fletcher & Clarke: 2092 / 8
+
+ER IMPROVEMENT:
+nearest neighbor: 2037 / 23       
+nearest insertion: 2068 / 6
+Fletcher: 2153 / 6
+Fletcher & Clarke: 2020 / 20
+
+2-OPT IMPROVEMENT:
+nearest neighbor: 2020 / 7
+nearest insertion: 2092 / 17
+Fletcher: 2039 / 19
+Fletcher & Clarke:  2045 / 20
+
+ER IMPROVEMENT AFTER 2-OPT:
+nearest neighbor: 2020 / 1
+nearest insertion: 2020 / 5
+Fletcher: 2020 / 4
+Fletcher & Clarke: 2020 / 20
+
+2-OPT IMPROVEMENT AFTER ER
+nearest neighbor: 2020 / 3
+nearest insertion: 2053 / 2
+Fletcher: 2020 / 3
+Fletcher & Clarke: 2020 / 20
+
+ft53
+
+NO LOCAL IMPORVEMENT:
+nearest neighbor: 8584 / 20
+nearest insertion: 7554 / 35
+Fletcher: 12272 / 1
+Fletcher & Clarke: 7688 / 10
+
+ER IMPROVEMENT:
+nearest neighbor: 8155 / 20
+nearest insertion: 7508 / 6
+Fletcher: 8673 / 3
+Fletcher & Clarke: 7092 / 10
+
+2-OPT IMPROVEMENT:
+nearest neighbor: 8196 / 44
+nearest insertion: 7531 / 6
+Fletcher: 9454 / 1
+Fletcher & Clarke: 7101 / 41
+
+ER IMPROVEMENT AFTER 2-OPT:
+nearest neighbor: 7985 / 44
+nearest insertion: 7508 / 6
+Fletcher: 8298 / 39
+Fletcher & Clarke: 6905 / 10
+
+2-OPT IMPROVEMENT AFTER ER:
+nearest neighbor: 8136 / 35
+nearest insertion: 7508 / 6
+Fletcher: 8530 / 3
+Fletcher & Clarke: 7008 / 10
